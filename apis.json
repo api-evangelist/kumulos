@@ -1,0 +1,66 @@
+{
+    "name": "Kumulos",
+    "description": "Made for the business of mobile app development, Kumulos helps you manage the commercial and technical performance of Apps, so you drive a better outcome.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/121-kumulos.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "baas",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kumulos\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Kumulos",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/121-kumulos.jpg",
+            "humanURL": "http:\/\/www.kumulos.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kumulos-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kumulos-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.kumulos.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.kumulos.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/kumulos"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/kumulos"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/KumulosCloud"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/kumulosdev"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.kumulos.com\/"
+        }
+    ]
+}
